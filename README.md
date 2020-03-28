@@ -1,0 +1,2 @@
+# RayoOmega
+Respositorio chido
